@@ -1,0 +1,6 @@
+1alham: EXECUTION STACK // DOTOR BVH DARAALAL BOLNO
+2alham: WEB APIS: // javascript punkts dotor baidaggvi oor programmst zohioson 
+    1.setTimeout()
+    2.DOM events
+    3.XMLHttpRequest()
+3alham: MESSAGE QUEUE // setTimeout hvleegdej baina"secund duustal"&EXECUTION STACK duushar ajildag punkts

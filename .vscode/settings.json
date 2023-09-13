@@ -1,0 +1,43 @@
+{
+  "editor.fontsize": 16,
+
+"editor.fontFamily": "Consolas, 'Courier New', monospace",
+
+"editor.wordWrap": "on",
+
+"editor.lineHeight": 30,
+
+"editor.cursorBlinking": "smooth",
+
+"explorer.openEditors.visible": 0,
+
+"workbench.colorCustomizations": {
+
+  "statusBar.background": "#333",
+
+  "statusBar.debuggingBackground":"#333",
+
+  "statusBar.noFolderBackground": "#333"
+
+},
+
+"editor.formatOnSave": true,
+
+"editor.minimap.enabled": false,
+
+"workbench.activityBar.visible": true,
+
+"explorer.sortOrder": "type", //Erembe
+
+"files.trimFinalNewlines": true, //zaig alga bolgoh avto
+
+"workbench.editor.highlightModifiedTabs": true,
+
+"files.autoSave": "onFocusChange",
+
+"editor.suggestSelection": "first",
+
+"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+
+"liveServer.settings.donotShowInfoMsg": true, //hadgalah
+}

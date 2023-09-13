@@ -1,0 +1,10 @@
+auto remote tag ( Jun Han)
+prettier (Esben Petersen)
+bracket pair colorizer
+paste-and-indent
+path intellisense
+javascript ES6 code snippets
+visual studio intellicode
+indent rainbow
+import cost
+live server

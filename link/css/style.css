@@ -1,0 +1,43 @@
+h1 {
+  color: crimson;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 30px;
+}
+p {
+  color: #333;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
+}
+li {
+  color: #575757;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+h3 {
+  color: #575757;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+/*h3 {
+  color: #575757;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}*/
+a {
+  border-left: 5px solid red;
+  background-color: #cccccc;
+  padding: 5px;
+  color: #575757;
+}
+body {
+  background-image: url("./img/bkg.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+#para1 {
+  /*text-align: center;*/
+  color: red;
+}
+.ungu {
+  color: aqua;
+}
